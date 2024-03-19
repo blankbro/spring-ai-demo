@@ -34,3 +34,4 @@ build/
 
 # my
 src/main/resources/application-me.yml
+src/main/resources/.env
